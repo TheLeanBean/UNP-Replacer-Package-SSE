@@ -1,2 +1,122 @@
-# UNP-Replacer-Package-SSE
-[b][img]http://i.imgur.com/g5Wipah.jpg[/img] [color=#ff0000][size=3]Port: [/size] [/color][/b]- This is an author port of the [url=http://www.nexusmods.com/skyrim/mods/34102]UNP Armor Replacer Package[/url]; [b]5,140 [/b]ENDORSEMENTS; [b]59,692 [/b]UNIQUE D/LS. - This was ported using [url=http://www.nexusmods.com/skyrimspecialedition/mods/4089]SSE NIF Optimizer[/url]. - I consider this release to be the [b][color=#ff0000][size=4]BETA Version[/size][/color][/b] of this mod. - What was the Alpha? I installed all my defaults and ran through my Madd Haven mod without issue. - Please use the above Bugs section to report an issue.  What model and what it is doing is great. - Even Better, download and use [url=http://www.nexusmods.com/skyrimspecialedition/mods/5059]Madd Haven[/url].  - You can see all the models there and it would allow you to give me a very specific: - Bandit 2 is missing a texture on the skirt using remodeled armors  [b][color=#ff0000][size=3]Development continues into SE[/size][/color][/b] - Thank you  to TheLeanBean who has made the 6.0.0 patch.  [color=red][size=3][b]Summary[/b][/size][/color] - This mod is an installer package (NMM/MO/FOMOD) that combines several armor packages into one.   - You can then select each armor type from each package.   - Screenshots are included in the installer to assist in your decisions.  - If you can't decide, option 1 is always selected as my favorite.   - You could, if you wanted to, hit the next button really fast and install this in 1 minute.   - Or you can spend an hour deciding your style. - Note, version 4.0.0 still has my 3.2.0 preferences if you were relying on Author's Choice you will want to pay additional attention when upgrading the clothing section.  [color=red][size=3][b]Madd Haven Testing Grounds[/b][/size][/color] - You are [b][u]STRONGLY[/u][/b] encouraged to download and use [url=http://www.nexusmods.com/skyrimspecialedition/mods/5059]Madd Haven[/url] in conjunction with any armor replacer mods (like this one). - Why? Madd Haven adds a MCM menu entry that can teleport you to several testing grounds where you can see all the armor / clothing. - This is important to make sure your mix and match, mixes and matches well!   [color=red][b]Content and Credits[/b][/color] - Credit: [url=http://skyrim.nexusmods.com/mods/6709]DIMONIZED UNP female body[/url] by [url=http://skyrim.nexusmods.com/users/537675]dimon99[/url] for the mesh that started it all. - Content ([color=Gold]1.0.0[/color]): [url=http://skyrim.nexusmods.com/mods/7305]UNP Female Armors[/url] by [url=http://skyrim.nexusmods.com/users/166658]Exeter[/url] - Content ([color=Gold]1.0.0[/color]): [url=http://skyrim.nexusmods.com/mods/5564]a little sexy apparel replacer - for UNP[/url] - by [url=http://skyrim.nexusmods.com/users/489563]Cotyounoyume[/url] (Fit and Loose) - Content ([color=Gold]1.0.0[/color]): [url=http://skyrim.nexusmods.com/mods/19772]Remodeled Armors - UNP version - Originally by Mak07[/url] by [url=http://skyrim.nexusmods.com/users/2113195]asianboy345[/url] - Content ([color=Gold]1.0.0[/color]): UNP - [url=http://skyrim.nexusmods.com/mods/9546]Ultra Skimpy Armor[/url] by [url=http://skyrim.nexusmods.com/users/3076419]Nightasy[/url]  - Content ([color=yellow]2.0.0[/color]): [url=http://skyrim.nexusmods.com/mods/19004]Remodeled Armor's Boots / Gloves[/url] by [url=http://skyrim.nexusmods.com/users/3100012]Mak07[/url] - Content ([color=yellow]2.0.0[/color]): [url=http://skyrim.nexusmods.com/mods/13004]UNP Armor Shop[/url] by [url=http://skyrim.nexusmods.com/users/1338186]Theminblack[/url] - Content ([color=yellow]2.0.0[/color]): [url=http://skyrim.nexusmods.com/mods/5162]UNP Female Armors Daedric femal armor replacer[/url] by [url=http://skyrim.nexusmods.com/users/1162571]MaikCG[/url] - Content ([color=yellow]2.0.0[/color]): [url=http://skyrim.nexusmods.com/mods/24065]Sleek Steel Replacer for UNP[/url] by [url=http://skyrim.nexusmods.com/users/2471844]ReflexShooter[/url] - Content ([color=yellow]2.0.0[/color]): [url=http://skyrim.nexusmods.com/mods/12424]R18Pn 03 - Argent Iron Armor for UNP[/url] by [url=http://skyrim.nexusmods.com/users/614236]Kurese[/url]  - Content ([color=Gold]3.0.0[/color]): [url=http://skyrim.nexusmods.com/mods/34160]Sexy Vanilla Armor for UNP[/url] by [url=http://skyrim.nexusmods.com/users/5552816]Crosscrusade[/url] - Content ([color=Gold]3.0.0[/color]): [url=http://skyrim.nexusmods.com/mods/11951]You Call That Skimpy[/url] by [url=http://skyrim.nexusmods.com/users/1562290]Obmit[/url] - Content ([color=Gold]3.0.0[/color]): [url=http://skyrim.nexusmods.com/mods/5564]a little sexy apparel replacer - for UNP[/url] - by [url=http://skyrim.nexusmods.com/users/489563]Cotyounoyume[/url] No Bra, No Panty, Neither Edits by MaddBomber83 - Content ([color=Gold]3.0.0[/color]): [url=http://skyrim.nexusmods.com/mods/19772]Remodeled Armors - UNP version - Originally by Mak07[/url] by [url=http://skyrim.nexusmods.com/users/2113195]asianboy345[/url] No Panty Version Edit by MaddBomber83  - Content ([color=yellow]4.0.0[/color]): [url=http://skyrim.nexusmods.com/mods/28056]Draugr Skirts[/url] by [url=http://skyrim.nexusmods.com/users/2057817]Tattooed Illusions[/url] for Prisoner Clothes. - Content ([color=yellow]4.0.0[/color]): [url=http://skyrim.nexusmods.com/mods/13082]R18Pn 00 - Fiona Armor[/url] by [url=http://skyrim.nexusmods.com/users/614236]KURESE[/url] for Black Smith/Shoes and Chef. - Content ([color=yellow]4.0.0[/color]): [url=http://skyrim.nexusmods.com/mods/19377]Imperial Investigator Armor[/url] by [url=http://skyrim.nexusmods.com/users/1006539]Calyps[/url] for Novice Mage Robes, Monk Vaermina Robes/Boots, Psiijic Robes/Gloves/Boots, Thalmor Robes/Gloves/Boots. - Content ([color=yellow]4.0.0[/color]): [url=http://skyrim.nexusmods.com/mods/25873]TM BallGown Conversion[/url] by [url=http://skyrim.nexusmods.com/users/2689072]zzJay[/url] all Farm Clothes and Fine Clothes. - Content ([color=yellow]4.0.0[/color]): [url=http://skyrim.nexusmods.com/mods/19425]UNP Meshes for the Triss outfit[/url] by [url=http://skyrim.nexusmods.com/users/166658]Exeter[/url] originally [url=http://skyrim.nexusmods.com/mods/5135]Triss Outfitt for TES V Skyrim[/url] by [url=http://skyrim.nexusmods.com/users/138187]Fraper[/url]; for Merchant and Miner Clothes / Boots. - Content ([color=yellow]4.0.0[/color]): [url=http://skyrim.nexusmods.com/mods/22612]Battledress[/url] by [url=http://skyrim.nexusmods.com/users/3959191]EnaiSiaion[/url] all Farm Clothes, and the boots for Archmage, College Robes, Necromancer and Warlocks. - Content ([color=yellow]4.0.0[/color]): [url=http://skyrim.nexusmods.com/mods/15529]Inner Wear Set[/url] by [url=http://skyrim.nexusmods.com/users/614236]KURESE[/url] Archmage, Necromancer and Warlock Robes. - Content ([color=yellow]4.0.0[/color]): [url=http://skyrim.nexusmods.com/mods/22101]Mina Armors[/url] by [url=http://skyrim.nexusmods.com/users/2113195]Asian Boy 345[/url] Archmage, Necromancer and Warlock Robes/Boots. - Content ([color=yellow]4.0.0[/color]): [url=http://skyrim.nexusmods.com/mods/28476]Noldorian Divine Huntress[/url] by [url=http://skyrim.nexusmods.com/users/3676578]Ecthelion OtW[/url] for Archmage, College Robes, Necromancer Robes and Warlock Robes.  - Content ([color=Gold]5.0.0[/color]): [url=http://skyrim.nexusmods.com/mods/34160]Sexy Vanilla Armor for UNP[/url] by [url=http://skyrim.nexusmods.com/users/5552816]Crosscrusade[/url] - Updated to latest version including new additions for (Blades, Daedric, Dwarven, Glass, All 4 Hides, Nightingale, Savior's Hide, Studded, All 4 Thieves Guild, and Wolf/Companion).  - Credit: [url=http://skyrim.nexusmods.com/users/5532302]Temporal Ranger[/url] for all in game screen shots and assistance answering questions. - Community Support: [url=http://skyrim.nexusmods.com/users/3045089]Texti Texto[/url] for helping with mod suggestions and assistance answering questions - Community Support: [url=http://skyrim.nexusmods.com/users/3045089]Texti Texto[/url] for helping with mod suggestions and assistance answering questions. - Community Support: [url=http://skyrim.nexusmods.com/users/5423688]Stat Monster[/url] for helping with mod suggestions and assistance answering questions. - Community Support: [url=http://skyrim.nexusmods.com/users/5335509]Sangimpur[/url] for helping with mod suggestions and assistance answering questions.   (In Game Screen Shot Credits) - Credit: [url=http://skyrim.nexusmods.com/mods/10168]Apachii Sky Hair Female[/url] - Credit: [url=http://skyrim.nexusmods.com/mods/30181]Alt Navetsea UNP Seamless[/url] - Credit: [url=http://skyrim.nexusmods.com/mods/32329]Battle Hardened Body[/url] - Credit: [url=http://skyrim.nexusmods.com/mods/24909]Book of Silence[/url] - Credit: [url=http://skyrim.nexusmods.com/mods/28645]Nuska's Female Chargen Morph Replacer[/url] - Credit: [url=http://skyrim.nexusmods.com/mods/34127]Unreal Cinema ENB - The Director's Cut (tweaked version)[/url]  (Green Background Screen Shot Credits) - Credit: [url=http://skyrim.nexusmods.com/mods/32986]Mature skin texture and body for UNP[/url] by [url=http://skyrim.nexusmods.com/users/1674320]Maevan2[/url] * all screen shots of UNP bodies is using this texture (brightened up a bit to match in game) - Credit: [url=http://skyrim.nexusmods.com/mods/2356]XCE - Xenius Character Enhancement[/url] by [url=http://skyrim.nexusmods.com/users/726673]Xenius[/url] * all screen shots of Vanilla bodies is using this texture (brightened up a bit to match in game) - Credit: [url=http://skyrim.nexusmods.com/mods/20884]UNP Replacer Configuration Package[/url] by [url=http://skyrim.nexusmods.com/users/4814338]sillumlt[/url] * this combination of all the meshes/textures gave me the idea for doing the same thing on armor/clothing  [color=red][b]Why did I make this?[/b][/color] - I made this mod pack as there are several VERY good armor packs.   - Each covers different items and overlaps in other areas.  - Some of the author's style matches what I like and other times it does not.  - It was difficult to decide what pack to overwrite what pack with.   - Looking through the screenshots from the author sometimes gave a good indication of what was what; other times it did not.  - To further mess it up, sometimes I would love one line of armor from an author, but dislike another line of armor.  - And even further messing it up, sometimes 1 mod would change the appearance of a different mod.  - This was made as a tool for me to decide / Mix and Match / install.   - A tool I am sharing with you.  [color=red][b]What does it do?[/b][/color] - I will use Bandit armor as an example.   - There are 4 types of bandit armor.   - There are 4 mod packs that include bandit armor (one of them has 2 options) to make 5 total selections for each of the 4 Bandit armor types.  - One installer page will list all 5 options and the Vanilla for Bandit Armor 0.   - Each of these options has a screen shot of the armor.   - You could select [url=http://skyrim.nexusmods.com/mods/9546]Ultra Skimpy[/url] for Bandit 0, [url=http://skyrim.nexusmods.com/mods/19772]Remodeled Armors[/url] for Bandit 1, [url=http://skyrim.nexusmods.com/mods/7305]Female Armors[/url] for Bandit 2, and [url=http://skyrim.nexusmods.com/mods/5564]Little Sexy Apparel Fitted[/url] Armors for Bandit 3.  - This continues for any armor pack that modified the gloves / boots or other armor parts.   - Some mods like [url=http://skyrim.nexusmods.com/mods/5564]Little Sexy[/url] give you additional choices (fitted or loose).   - We then move on to bladed armor.   - There are a lot of armors covered by this combined pack so be ready to make some choices and take your time!  [color=red][b]Just how big is this mod?[/b][/color] - Version ([color=Yellow]4.0.0[/color]) Contains: - 21,438 Lines of Install Code - 1,139 Screen Shots - 1,030 Models - 183 Install Pages (Armor types)  - Version ([color=Gold]3.0.0[/color]) Contains: - 13,469 Lines of Install Code - 1,042 Screen Shots - 942 Models - 158 Install Pages (Armor types)  - Version ([color=Yellow]2.0.0[/color]) Contains: - 8,119 Lines of Install Code - 566 Screen Shots - 467 Models - 155 Install Pages (Armor types)  - Version ([color=Gold]1.0.0[/color]) Contains: - 5,064 Lines of Install Code - 477 Screen Shots - 377 Models - 135 Install Pages (Armor types)  [color=red][b]What is the scope or focus of this mod?[/b][/color] - The intent of this mod is to offer choices in what parts of an armor pack you install.   - This is a replacer armor pack and only contains replacements to the Vanilla Armor/Clothing to match the [url=http://skyrim.nexusmods.com/mods/6709]UNP mesh[/url]. - It only covers the [url=http://skyrim.nexusmods.com/mods/6709]UNP mesh[/url].  [color=red][b]How do I install this?[/b][/color] - You must use a mod organizer like [url=http://skyrim.nexusmods.com/mods/modmanager/]NMM[/url] or [url=http://skyrim.nexusmods.com/mods/1334]MO[/url]. - I have tested in both the above two mod organizers. - Anything else is untested, but should work if it uses the normal FOMOD install pack. - *Note* this mod is not intended for manual installation. - If you would like to do a manual installation, you are best served by downloading the individual mods.
+
+Port: 
+- This is an author port of the UNP Armor Replacer Package; 5,140 ENDORSEMENTS; 59,692 UNIQUE D/LS.
+- This was ported using SSE NIF Optimizer.
+- I consider this release to be the BETA Version of this mod.
+- What was the Alpha? I installed all my defaults and ran through my Madd Haven mod without issue.
+- Please use the above Bugs section to report an issue.  What model and what it is doing is great.
+- Even Better, download and use Madd Haven. 
+- You can see all the models there and it would allow you to give me a very specific:
+- Bandit 2 is missing a texture on the skirt using remodeled armors
+
+Development continues into SE
+- Thank you  to TheLeanBean who has made the 6.0.0 patch.
+
+Summary
+- This mod is an installer package (NMM/MO/FOMOD) that combines several armor packages into one. 
+- You can then select each armor type from each package. 
+- Screenshots are included in the installer to assist in your decisions.
+
+- If you can't decide, option 1 is always selected as my favorite. 
+- You could, if you wanted to, hit the next button really fast and install this in 1 minute. 
+- Or you can spend an hour deciding your style.
+- Note, version 4.0.0 still has my 3.2.0 preferences if you were relying on Author's Choice you will want to pay additional attention when upgrading the clothing section.
+
+Madd Haven Testing Grounds
+- You are STRONGLY encouraged to download and use Madd Haven in conjunction with any armor replacer mods (like this one).
+- Why? Madd Haven adds a MCM menu entry that can teleport you to several testing grounds where you can see all the armor / clothing.
+- This is important to make sure your mix and match, mixes and matches well!
+
+Just how big is this mod?
+- Version (4.0.0) Contains:
+- 21,438 Lines of Install Code
+- 1,139 Screen Shots
+- 1,030 Models
+- 183 Install Pages (Armor types)
+
+- Version (3.0.0) Contains:
+- 13,469 Lines of Install Code
+- 1,042 Screen Shots
+- 942 Models
+- 158 Install Pages (Armor types)
+
+- Version (2.0.0) Contains:
+- 8,119 Lines of Install Code
+- 566 Screen Shots
+- 467 Models
+- 155 Install Pages (Armor types)
+
+- Version (1.0.0) Contains:
+- 5,064 Lines of Install Code
+- 477 Screen Shots
+- 377 Models
+- 135 Install Pages (Armor types)
+
+What is the scope or focus of this mod?
+- The intent of this mod is to offer choices in what parts of an armor pack you install. 
+- This is a replacer armor pack and only contains replacements to the Vanilla Armor/Clothing to match the UNP mesh.
+- It only covers the UNP mesh.
+
+How do I install this?
+- You must use a mod organizer like NMM or MO.
+- I have tested in both the above two mod organizers.
+- Anything else is untested, but should work if it uses the normal FOMOD install pack.
+- *Note* this mod is not intended for manual installation.
+- If you would like to do a manual installation, you are best served by downloading the individual mods.
+
+Conditions:
+- This mod and derivatives may not be used for commercial purposes.
+- This mod may not be distributed without permission from me first.
+- This mod may not be modified and made public.
+- Any modifications, fixes, derivatives, and additions in form or in spirit provides an express grant of patent rights to me.
+
+Essentially, get ahold of me before you publicly do anything with this mod.
+File credits
+Content and Credits
+- Credit: DIMONIZED UNP female body by dimon99 for the mesh that started it all.
+- Content (1.0.0): UNP Female Armors by Exeter
+- Content (1.0.0): a little sexy apparel replacer - for UNP - by Cotyounoyume (Fit and Loose)
+- Content (1.0.0): Remodeled Armors - UNP version - Originally by Mak07 by asianboy345
+- Content (1.0.0): UNP - Ultra Skimpy Armor by Nightasy
+
+- Content (2.0.0): Remodeled Armor's Boots / Gloves by Mak07
+- Content (2.0.0): UNP Armor Shop by Theminblack
+- Content (2.0.0): UNP Female Armors Daedric femal armor replacer by MaikCG
+- Content (2.0.0): Sleek Steel Replacer for UNP by ReflexShooter
+- Content (2.0.0): R18Pn 03 - Argent Iron Armor for UNP by Kurese
+
+- Content (3.0.0): Sexy Vanilla Armor for UNP by Crosscrusade
+- Content (3.0.0): You Call That Skimpy by Obmit
+- Content (3.0.0): a little sexy apparel replacer - for UNP - by Cotyounoyume No Bra, No Panty, Neither Edits by MaddBomber83
+- Content (3.0.0): Remodeled Armors - UNP version - Originally by Mak07 by asianboy345 No Panty Version Edit by MaddBomber83
+
+- Content (4.0.0): Draugr Skirts by Tattooed Illusions for Prisoner Clothes.
+- Content (4.0.0): R18Pn 00 - Fiona Armor by KURESE for Black Smith/Shoes and Chef.
+- Content (4.0.0): Imperial Investigator Armor by Calyps for Novice Mage Robes, Monk Vaermina Robes/Boots, Psiijic Robes/Gloves/Boots, Thalmor Robes/Gloves/Boots.
+- Content (4.0.0): TM BallGown Conversion by zzJay all Farm Clothes and Fine Clothes.
+- Content (4.0.0): UNP Meshes for the Triss outfit by Exeter originally Triss Outfitt for TES V Skyrim by Fraper; for Merchant and Miner Clothes / Boots.
+- Content (4.0.0): Battledress by EnaiSiaion all Farm Clothes, and the boots for Archmage, College Robes, Necromancer and Warlocks.
+- Content (4.0.0): Inner Wear Set by KURESE Archmage, Necromancer and Warlock Robes.
+- Content (4.0.0): Mina Armors by Asian Boy 345 Archmage, Necromancer and Warlock Robes/Boots.
+- Content (4.0.0): Noldorian Divine Huntress by Ecthelion OtW for Archmage, College Robes, Necromancer Robes and Warlock Robes.
+
+- Content (5.0.0): Sexy Vanilla Armor for UNP by Crosscrusade - Updated to latest version including new additions for (Blades, Daedric, Dwarven, Glass, All 4 Hides, Nightingale, Savior's Hide, Studded, All 4 Thieves Guild, and Wolf/Companion).
+
+- Credit: Temporal Ranger for all in game screen shots and assistance answering questions.
+- Community Support: Texti Texto for helping with mod suggestions and assistance answering questions
+- Community Support: Texti Texto for helping with mod suggestions and assistance answering questions.
+- Community Support: Stat Monster for helping with mod suggestions and assistance answering questions.
+- Community Support: Sangimpur for helping with mod suggestions and assistance answering questions.
+
+(In Game Screen Shot Credits)
+- Credit: Apachii Sky Hair Female
+- Credit: Alt Navetsea UNP Seamless
+- Credit: Battle Hardened Body
+- Credit: Book of Silence
+- Credit: Nuska's Female Chargen Morph Replacer
+- Credit: Unreal Cinema ENB - The Director's Cut (tweaked version)
+
+(Green Background Screen Shot Credits)
+- Credit: Mature skin texture and body for UNP by Maevan2 * all screen shots of UNP bodies is using this texture (brightened up a bit to match in game)
+- Credit: XCE - Xenius Character Enhancement by Xenius * all screen shots of Vanilla bodies is using this texture (brightened up a bit to match in game)
+- Credit: UNP Replacer Configuration Package by sillumlt * this combination of all the meshes/textures gave me the idea for doing the same thing on armor/clothing
