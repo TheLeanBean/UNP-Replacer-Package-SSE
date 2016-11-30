@@ -10,3 +10,5 @@
 5.0.0 - Added Cross Crusade's Studded Armor
 5.0.0 - Added Cross Crusade's Thieves Guild Armor
 5.0.0 - Added Cross Crusade's Wolf/Companion Armor
+6.0.0 - Conversion to SSE
+6.0.1 - Updated version info to match NMM updates
