@@ -1,0 +1,12 @@
+4.1.0 - Initial Release of Armor Module
+5.0.0 - Updated Cross Crusade's Sexy Armor to 1.10
+5.0.0 - Added Cross Crusade's Blades Armor
+5.0.0 - Added Cross Crusade's Daedric Armor
+5.0.0 - Added Cross Crusade's Dwarven Armor
+5.0.0 - Added Cross Crusade's Glass Armor
+5.0.0 - Added Cross Crusade's Hide Armor
+5.0.0 - Added Cross Crusade's Nightingale Armor
+5.0.0 - Added Cross Crusade's Savior's Hide Armor
+5.0.0 - Added Cross Crusade's Studded Armor
+5.0.0 - Added Cross Crusade's Thieves Guild Armor
+5.0.0 - Added Cross Crusade's Wolf/Companion Armor
