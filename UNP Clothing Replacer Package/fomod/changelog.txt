@@ -1,0 +1,8 @@
+4.1.0 - Initial Release of Clothing Module
+4.2.0 - Fixes the Jarl 02 Clothing when using a texture replacer on Mage Outfits
+4.2.0 - Fixed Meshes for Merchant Clothes (LSAR)
+4.2.0 - Fixed Meshes for Farm Clothes 04 (LSAR)
+4.2.0 - Fixed Meshes for Farm Clothes 02 (LSAR)
+4.2.0 - Disabled Alternate Textures for College Robes Common (LSAR) until a fix can be generated
+4.2.0 - Disabled Alternate Textures for College Robes Apprentice (LSAR) until a fix can be generated
+4.2.0 - Disabled Alternate Textures for Farm Clothes 03 (LSAR) until a fix can be generated
