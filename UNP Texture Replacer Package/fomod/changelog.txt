@@ -1,1 +1,3 @@
 4.1.0 - Initial Release of Texture Pack
+6.0.0 - Conversion to SSE
+6.0.1 - Updated version info to match NMM updates
