@@ -6,3 +6,5 @@
 4.2.0 - Disabled Alternate Textures for College Robes Common (LSAR) until a fix can be generated
 4.2.0 - Disabled Alternate Textures for College Robes Apprentice (LSAR) until a fix can be generated
 4.2.0 - Disabled Alternate Textures for Farm Clothes 03 (LSAR) until a fix can be generated
+6.0.0 - Conversion to SSE
+6.0.1 - Updated version info to match NMM updates
