@@ -1,0 +1,30 @@
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://qconsulting.ca/fo3/ModConfig5.0.xsd">
+  <moduleName>UNP Texture Replacer Package</moduleName>  
+  <installSteps order="Explicit">
+  	<installStep name="Read Me">
+      <optionalFileGroups>
+        <group name="1 - Read Me!" type="SelectExactlyOne">
+          <plugins order="Explicit">
+  		  <plugin name="Notes">
+			<description><![CDATA[You should install this file BEFORE you install either the Clothing or Armor modules.  If you don't, you may undo any adjustments they make to texture files.  To avoid this you can try to skip any files it wants you to overwrite.]]></description> 
+			<conditionFlags><flag name="ReadMe">yes</flag></conditionFlags>            
+              <typeDescriptor><type name="Recommended"/></typeDescriptor>
+            </plugin>
+		  </plugins>
+        </group>
+        <group name="2 - How should I install?" type="SelectExactlyOne">
+          <plugins order="Explicit">
+  		  <plugin name="Install Everything">
+			<description><![CDATA[Select this option if you would like view all the install pages (Default).]]></description> 
+			<conditionFlags><flag name="Install">all</flag></conditionFlags>    
+				<files>
+			<folder source="textures" destination="textures"/>		
+				</files>
+              <typeDescriptor><type name="Optional"/></typeDescriptor>
+            </plugin>
+		  </plugins>
+        </group>
+      </optionalFileGroups>
+    </installStep>
+  </installSteps>
+</config>
